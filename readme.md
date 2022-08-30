@@ -1,7 +1,3 @@
 hello 
 
-o
-
-p
-
-q
+r
