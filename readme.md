@@ -1,7 +1,5 @@
 hello 
 
-o
-
-p
-
-q
+r
+s
+t
