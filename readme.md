@@ -1,19 +1,7 @@
-hello a d
+hello 
 
-g
+o
 
-g
+p
 
-f
-
-h
-
-i
-
-j
-
-l
-
-m
-
-n
+q
